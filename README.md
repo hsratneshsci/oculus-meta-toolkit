@@ -18,7 +18,7 @@ The Oculus Toolkit is an open-source and lightweight command-line tool that prov
 
 To use the Oculus Toolkit, follow these steps:
 
-1. Download the latest release of the Oculus Toolkit from the [Releases](link-to-releases) section.
+1. Download the latest release of the Oculus Toolkit from the [Releases][def] section.
 2. Connect your Oculus device to the computer using a USB cable.
 3. Run the `oculus-toolkit.exe` executable.
 4. Select the desired option from the menu by entering the corresponding number.
@@ -41,3 +41,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 We would like to acknowledge the developers and contributors who have helped make the Oculus Toolkit possible.
+
+
+[def]: https://github.com/hsratneshsci/oculus-meta-toolkit/releases/download/first_stable/Oculus.Toolkit.exe
